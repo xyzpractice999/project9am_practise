@@ -2,11 +2,11 @@ package tests;
 
 public class Sample1 {
 	
-	public void m1111() {
+	public void m1211() {
 	}
-	public void m2() {
+	public void m222() {
 	}
-	public void m3() {
+	public void m322() {
 	}
 
 }
